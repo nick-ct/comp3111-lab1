@@ -20,11 +20,4 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>markdown.png</name>
-			<type>1</type>
-			<location>C:/Users/ctleungad/Desktop/markdown.png</location>
-		</link>
-	</linkedResources>
 </projectDescription>
